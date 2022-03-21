@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErsadMertMutlu
 - 👀 I’m interested in Image Processing and everthing of Mechanical Engineering
-- 🌱 I’m currently learning MatLab and Python
+- 🌱 I’m currently learning MatLab, Python, SolidWorks
 - 📫 How to reach me ersadmert.mutlu@outlook.com
 
 <!---
